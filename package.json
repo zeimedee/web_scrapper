@@ -1,0 +1,26 @@
+{
+  "name": "web_scrapper",
+  "version": "1.0.0",
+  "description": "web scrapper built using puppeteer",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "log-symbols": "^3.0.0",
+    "puppeteer": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "puppet": " node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeimedee/web_scrapper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeimedee/web_scrapper/issues"
+  },
+  "homepage": "https://github.com/zeimedee/web_scrapper#readme"
+}
